@@ -1,0 +1,35 @@
+
+Play Music Youtube Online On Termux
+
+Cara Eksekusi di Termux
+
+Creator @ Boychongzen aka Xroot
+
+=====================================================================
+pkg update && pkg upgrade -y
+
+pkg install git python python2 mpv -y
+
+pip install youtube-dl
+
+pip install mps-youtube
+
+mpsyt --help
+
+Menu > mpsyt
+
+Search    > /dj nofin
+
+Play List > 1 
+
+Next list > 1 - 32
+
+exit > ctrl-c again to exit
+
+
+
+
+
+
+
+
