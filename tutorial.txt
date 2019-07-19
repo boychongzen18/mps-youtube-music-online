@@ -1,10 +1,9 @@
 
 Play Music Youtube Online On Termux
 
-Cara Eksekusi di Termux
-
 Creator @ Boychongzen aka Xroot
 
+Cara Eksekusi di Termux
 =====================================================================
 pkg update && pkg upgrade -y
 
